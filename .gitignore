@@ -3,3 +3,4 @@ dist
 download.sh
 .astro
 package-lock.json
+.env
